@@ -11,7 +11,7 @@ Make sure the TLMC FTP link is active before running.
 At the time of scripting, the url is
 `http://151.80.40.155/tlmc/`
 
-1. Run `TLMC.py` to obtain a `TLMC.json` file. This file contains all the links to the music files along with the directory structure.
+1. Run `TLMC.py` to obtain a `TLMC.json` file. This file contains all the links to the music files along with the directory structure. (My file is already included in the repo as TLMC.sample.json, to use it, rename it to TLMC.json. However, it is recommended to generate your own file. Just because it is fun.)
 
 2. Run `makedir.py` to create the directory structure in your Local file system.
 
